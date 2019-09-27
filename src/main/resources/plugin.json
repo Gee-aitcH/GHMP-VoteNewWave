@@ -1,0 +1,7 @@
+{
+  "name": "GHVoteNewWave",
+  "author": "(G_H)",
+  "main": "ghvotenewwave.GHVoteNewWave",
+  "description": "A plugin that hold a Vote System for Sending a New Wave.",
+  "version": 0.1
+}
